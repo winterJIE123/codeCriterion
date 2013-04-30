@@ -1,4 +1,10 @@
+codeCriterion
+=============
+
+E++ Studio FE Code Criterion
+
 写在前面：
+
   1.不能有无故的空格和换行
   2.所有缩进均为按下两个空格键或者按下一个Tab键
     eg:
