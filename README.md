@@ -1,4 +1,4 @@
-codeCriterion
+CodeCriterion
 =============
 
 E++ Studio FE Code Criterion
